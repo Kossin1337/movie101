@@ -1,0 +1,14 @@
+.movie-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    border-radius: 8px;
+
+    border: 2px solid #fefefe;
+
+    .movie-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+    }
+}
